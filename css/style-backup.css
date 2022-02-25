@@ -1,0 +1,104 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+.wrap-landing-page {
+  background-color: #f1f3ff;
+}
+.margin-content {
+  margin-left: 200px;
+  margin-right: 200px;
+}
+h1 {
+  font-weight: bold;
+}
+nav {
+  position: absolute;
+  width: auto;
+  height: 36px;
+  margin-left: 136px;
+  margin-right: 136px;
+}
+/* CSS NAVBAR & HERO SECTION */
+.nav-item {
+  padding-left: 30px;
+}
+.navbar-brand {
+  vertical-align: top;
+  text-align: center;
+  width: 100px;
+  height: 34px;
+  background: green;
+  border: solid 3px black;
+}
+.jumbotron {
+  padding-left: 136px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+}
+cars{
+  width: 100px;
+  height: 34px;
+}
+
+/* CSS WHY US */
+.why-us {
+  margin-left: 100px;
+  margin-right: 100px;
+}
+.card-img-top {
+  width: 32px;
+  height: 32px;
+  margin-left: 24px;
+  margin-top: 24px;
+}
+
+/* CSS CAROUSEL */
+.carousel-item {
+  margin-left: 100px;
+  margin-right: 100px;
+  border-style: dashed;
+}
+.card-img {
+  margin-left: 24px;
+  width: 80px;
+  height: 80px;
+}
+
+/* CSS CTA BANNER */
+.cta-banner {
+  width: 1168px;
+  height: 326px;
+  color: white;
+  background-color: #0d28a6;
+  border-radius: 13px;
+}
+.why-us-content {
+  text-align: center;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+/* CSS FAQ */
+.accordion-item {
+  margin-left: 136px;
+  border-style: dotted;
+  margin-bottom: 10px;
+}
+
+/* CSS FOOTER */
+.footer {
+  list-style: none;
+  padding-top: 50px;
+  padding-right: 300px;
+  margin-left: 0;
+  display: flex;
+}
+.footer-list li {
+  display: block;
+  margin-top: 20px;
+}
+.social-media img {
+  width: 32px;
+  height: 32px;
+  margin-left: auto;
+  margin-right: 15px;
+}
